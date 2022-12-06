@@ -5,6 +5,10 @@
 But for real... TwiMo is your one-stop-shop for exploring functionality behind the Twilio docs. Both technical and business users can see Twilio functionality in real time!
 
 <p align="center">
+  <a href="https://github.com/gbernz/twimo/releases/tag/v1.0.0-alpha">Click here to download!</a>
+</p>
+
+<p align="center">
   <img src="/images/twilio-landscape.png" alt="TwiMo World" width="600"/>
 </p>
 
