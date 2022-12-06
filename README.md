@@ -18,9 +18,9 @@ This tool demonstrates how to do simple phone verification with Nodejs and Twili
 
 Since the 5280 team are not full-time developers, the app is forever in pre-release and as such is not code signed. This essentially means further steps are needed when downloading the app to play with it!
 
-### Downloading:
+After downloading TwiMo you will have to allow your computer to open the application as it is not currently code signed. Code signing is used to assure users that the app is from a known source and was not tempered with but it can be a lengthy process and was determined to not be necessary for this SE Hackathon. We are planning to explore getting TwiMo code signed in the future but for now please follow the below steps to download the app onto your computer.
 
-#### For Mac:
+### For Mac:
 - Instructions on how to download on Mac:
 - Click [here](https://github.com/gbernz/twimo/releases/download/v1.0.0-alpha/twimo-1.0.0-alpha.dmg) to download TwiMo to your computer
 - Once you have downloaded the application, launch the application.
@@ -33,25 +33,15 @@ Since the 5280 team are not full-time developers, the app is forever in pre-rele
 - Select Open and TwiMo will launch on your computer
 You can find more info [here](https://www.howtogeek.com/205393/gatekeeper-101-why-your-mac-only-allows-apple-approved-software-by-default/) as well.
 
-#### For Windows:
-You can find more info [here](https://www.windowscentral.com/how-fix-app-has-been-blocked-your-protection-windows-10)!
-
-#### For Linux:
-You can find more info [here](https://docs.appimage.org/user-guide/run-appimages.html)!
-
-### Installing:
-After downloading TwiMo you will have to allow your computer to open the application as it is not currently code signed. Code signing is used to assure users that the app is from a known source and was not tempered with but it can be a lengthy process and was determined to not be necessary for this SE Hackathon. We are planning to explore getting TwiMo code signed in the future but for now please follow the below steps to download the app onto your computer.
- 
-Mac Users:
-1. Download TwiMo and place in your applications folder
-2. Navigate to your Security & Privacy settings and click on the lock icon in the lower left corner to allow for changes
-3. You will see “TwiMo App was blocked from use because it is not from an identified developer.” Click on the “Open Anyway” button.
-4. You can now use TwiMo as you would any other app!
- 
-Window Users:
+### For Windows:
 1. Download TwiMo and open the app
 2. The Windows SmartScreen pop-up will open saying it prevented an unrecognized app from starting. Click the “Run Anyway” button (if it is not visible click more info first)
 3. You can now use TwiMo as you would any other app!
+
+You can find more info [here](https://www.windowscentral.com/how-fix-app-has-been-blocked-your-protection-windows-10)!
+
+### For Linux:
+You can find more info [here](https://docs.appimage.org/user-guide/run-appimages.html)!
 
 ## Contributing
  
