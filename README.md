@@ -16,7 +16,7 @@ But for real... TwiMo is your one-stop-shop for exploring functionality behind t
  
 This tool demonstrates how to do simple phone verification with Nodejs and Twilio Verify.
  
-[Read more over at our blog](https://www.twilio.com/blog/international-phone-number-input-html-javascript)!
+[Read more over at our blog (coming soon]()!
  
 ## Downloading & Installing
 
