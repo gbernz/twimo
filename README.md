@@ -53,7 +53,7 @@ Please no contributions - this stemmed from an internal Twilio build-a-thon and 
 
 ## Disclaimer
 
-TwiMo was developed by adventurous Twilions in an effort to provide customers with a means to play with Twilio APIs, whether they are a developer or not. Since this project was stemmed from a Q4 2022 internal hackathon (🎉 and GLOBAL winner!! 🥳), TwiMo comes as is and is not a managed product or actively being worked on. Twilio is a Communications Platform as a Service (CPaaS), and as such provides tools & building blocks to build out your application's communications functionality. There may be UI content displayed within this application that is not available through Twilio's APIs.
+TwiMo was developed by adventurous Twilions in an effort to provide customers with a means to play with Twilio APIs, whether they are a developer or not. Since this project was stemmed from a Q4 2022 internal hackathon (🎉 and GLOBAL winner!! 🤞 🥳), TwiMo comes as is and is not a managed product or actively being worked on. Twilio is a Communications Platform as a Service (CPaaS), and as such provides tools & building blocks to build out your application's communications functionality. There may be UI content displayed within this application that is not available through Twilio's APIs.
 
 For any questions or help with building, check out our [docs](https://www.twilio.com/docs) and [talk to our sales team!](https://www.twilio.com/help/sales)
 
